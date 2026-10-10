@@ -1,0 +1,3 @@
+# Los archivos de texto se guardan y se extraen con saltos de linea LF en cualquier sistema.
+# Los contenedores corren Linux y leen Dockerfile, nginx.conf, init.sql y docker-compose.yml.
+* text=auto eol=lf

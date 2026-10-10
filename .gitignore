@@ -1,0 +1,6 @@
+# Secretos: nunca se suben al repositorio
+.env
+
+node_modules/
+npm-debug.log*
+*.log.tmp
